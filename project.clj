@@ -2,9 +2,9 @@
 
   :dependencies [[hiccup "1.0.5"]
                  [me.raynes/fs "1.4.6"]
-                 [nrepl "0.6.0"]
-                 [org.clojure/clojure "1.10.0"]
-                 [ring "1.8.0"]
+                 [nrepl "0.8.0"]
+                 [org.clojure/clojure "1.10.1"]
+                 [ring "1.8.1"]
                  [stasis "2.5.0"]]
 
   :plugins [[lein-ring "0.12.5"]
