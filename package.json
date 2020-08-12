@@ -1,14 +1,14 @@
 {
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "2.0.6",
-    "autoprefixer": "9.7.4",
+    "@fullhuman/postcss-purgecss": "2.3.0",
+    "autoprefixer": "9.8.6",
     "cssnano": "4.1.10",
     "foreman": "3.0.1",
-    "postcss-cli": "7.1.0",
-    "postcss-combine-duplicated-selectors": "8.1.0",
+    "postcss-cli": "7.1.1",
+    "postcss-combine-duplicated-selectors": "9.0.0",
     "postcss-import": "12.0.1",
-    "postcss-nested": "4.2.1",
+    "postcss-nested": "4.2.3",
     "postcss-reporter": "6.0.1",
-    "tailwindcss": "1.2.0"
+    "tailwindcss": "1.6.2"
   }
 }
